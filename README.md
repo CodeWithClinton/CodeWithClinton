@@ -21,11 +21,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on fullstack projects using **Django** and **React**
+- 🔭 I’m currently working on fullstack AI projects using **Django**, **React** and **GPT-4**
 - 🎓 I teach web development on [YouTube](https://www.youtube.com/@CodeWithClinton)
 - 🌍 Over **50,000+ users** served on production apps I've worked on
 - 🧠 Passionate about sharing clean, practical code with real-world impact
-- 🚀 Currently building a **fullstack AI apps** with DJango, React and GPT-4
 
 ---
 
