@@ -80,4 +80,3 @@ My content focuses on helping developers move beyond basic CRUD apps into real-w
 [Email](mailto:clintonmatics@gmail.com)
 
 </div>
-```
