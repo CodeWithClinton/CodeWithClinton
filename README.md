@@ -1,37 +1,62 @@
-<h1 align="center">Hi, I'm Clinton Nwachukwu 👋</h1>
+# Hi, I'm Clinton 👋
 
-<p align="center">
-  <strong>Fullstack Web Developer | YouTuber | Mentor</strong><br/>
-  <em>Building real-world web apps with Django & React</em>
-</p>
+I'm a Full-Stack Developer and Coding Instructor focused on building production-ready web applications with Django, Django REST Framework, React, and modern deployment workflows.
 
-<p align="center">
-  <a href="https://www.youtube.com/@CodeWithClinton" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube" />
-  </a>
-  <a href="https://www.linkedin.com/in/clinton-nwachukwu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://twitter.com/codewithclinton" target="_blank">
-    <img src="https://img.shields.io/badge/X-Follow-black?style=flat&logo=twitter" />
-  </a>
-</p>
+I build backend APIs, full-stack applications, and developer-focused learning projects. My work is centered around Django REST Framework, React, PostgreSQL, Linux VPS deployment, CI/CD, and AI-assisted development workflows.
+
+Through my YouTube channel, **CodeWithClinton**, I teach developers how to build, deploy, and improve real-world web applications.
 
 ---
 
-### 👨‍💻 About Me
+## What I Do
 
-- 🔭 I’m currently working on fullstack AI projects using **Django**, **React** and **GPT-4**
-- 🎓 I teach web development on [YouTube](https://www.youtube.com/@CodeWithClinton)
-- 🌍 Over **50,000+ users** served on production apps I've worked on
-- 🧠 Passionate about sharing clean, practical code with real-world impact
+- Build REST APIs with Django and Django REST Framework
+- Create modern frontend applications with React
+- Deploy production-ready applications on Linux VPS servers
+- Work with PostgreSQL, Nginx, Gunicorn, Certbot, and CI/CD
+- Teach practical web development through YouTube tutorials
+- Use AI coding tools like Codex to speed up real-world development workflows
 
 ---
 
-### 🧰 Tech Stack
+## Tech Stack
 
-```plaintext
-💻 Backend:    Django · Django Rest Framework · PostgreSQL · Celery
-🌐 Frontend:   React.js · Tailwind CSS · CSS Modules · Vite
-☁️ DevOps:     Docker · GitHub Actions · Nginx · AWS (EC2, S3, RDS)
-🛠 Tools:      Git · VS Code · Postman · Figma
+**Backend:** Django, Django REST Framework, Python  
+**Frontend:** React, JavaScript, Vite, Tailwind CSS  
+**Database:** PostgreSQL, SQLite  
+**DevOps:** Linux VPS, Nginx, Gunicorn, UFW, Certbot, GitHub Actions  
+**Tools:** Git, GitHub, VS Code, Codex, Postman  
+
+---
+
+## Current Focus
+
+- Building real-world full-stack applications with Django and React
+- Improving backend architecture and system design skills
+- Creating developer tutorials around deployment, APIs, and AI-assisted coding
+- Deployment workflows for Django and React applications
+- Exploring how AI agents can help developers build and ship faster
+
+---
+
+## Developer Education
+
+I run **CodeWithClinton**, where I create practical tutorials for developers working with Django, React, deployment, APIs, and AI coding tools.
+
+My content focuses on helping developers move beyond basic CRUD apps into real-world development, deployment, and system design.
+
+---
+
+## GitHub Stats
+
+![Clinton's GitHub stats](https://github-readme-stats.vercel.app/api?username=clintonmatics&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clintonmatics&layout=compact&theme=transparent)
+
+---
+
+## Connect With Me
+
+- YouTube: [CodeWithClinton](https://www.youtube.com/@CodeWithClinton)
+- LinkedIn: [Clinton Nwachukwu](https://www.linkedin.com/in/clinton-nwachukwu)
+- Email: [clintonmatics@gmail.com](mailto:clintonmatics@gmail.com)
